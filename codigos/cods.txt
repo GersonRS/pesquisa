@@ -1,0 +1,25 @@
+"""
+if (not os.path.exists('../dados/'+path+'.h5')):
+    with open('../dados/'+path+'.h5', 'wb') as f:
+        print "Downloading %s" % path
+        response = requests.get(url, stream=True)
+        if response.status_code == 200:
+            total_length = response.headers.get('content-length')
+
+            if total_length is None: # no content length header
+                shutil.copyfileobj(response.raw, f)
+            else:
+                dl = 0
+                total_length = int(total_length)
+                for data in response.iter_content(chunk_size=total_length/100):
+                    dl += len(data)
+                    f.write(data)
+                    done = int(50 * dl / total_length)
+                    sys.stdout.write("\r[%s%s]" % ('=' * done, ' ' * (50-done)) )    
+                    sys.stdout.flush()
+else:
+    print('arquivo já existe')
+    """
+
+
+

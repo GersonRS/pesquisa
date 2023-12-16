@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7dc1b90-a8db-4569-a6bc-eef8c65eff43" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Pesquisa$aaaaaaaa.coverage" NAME="aaaaaaaa Coverage Results" MODIFIED="1549031333141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Pesquisa$Cesar.coverage" NAME="Cesar Coverage Results" MODIFIED="1546437262919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/Pesquisa$GW150914_tutorial.coverage" NAME="GW150914_tutorial Coverage Results" MODIFIED="1549905120623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RvxFwmXBRwd5kclaEHQFJ5zFW1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/projeto" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/projeto" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$USER_HOME$/Documentos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.dados">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Pesquisa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="coisa (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pesquisa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codigos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codigos/coisa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dados" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pesquisa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codigos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codigos/dados.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prova" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pesquisa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projeto" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projeto/prova.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testeeee-2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pesquisa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/projeto" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projeto/testeeee-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testeeee" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Pesquisa" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codigos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codigos/testeeee.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dados" />
+        <item itemvalue="Python.prova" />
+        <item itemvalue="Python.testeeee" />
+        <item itemvalue="Python.testeeee-2 (1)" />
+        <item itemvalue="Python.coisa (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7dc1b90-a8db-4569-a6bc-eef8c65eff43" name="Default Changelist" comment="" />
+      <created>1544466656172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544466656172</updated>
+      <workItem from="1544466662421" duration="3065000" />
+      <workItem from="1544469770320" duration="108000" />
+      <workItem from="1544473738566" duration="2556000" />
+      <workItem from="1544495410432" duration="32000" />
+      <workItem from="1544529935631" duration="2130000" />
+      <workItem from="1544534148742" duration="53000" />
+      <workItem from="1545162868470" duration="767000" />
+      <workItem from="1545165051249" duration="239000" />
+      <workItem from="1545318844739" duration="192000" />
+      <workItem from="1546435561581" duration="324000" />
+      <workItem from="1546436169464" duration="1106000" />
+      <workItem from="1546452549278" duration="104000" />
+      <workItem from="1546948365431" duration="860000" />
+      <workItem from="1547046318010" duration="599000" />
+      <workItem from="1547127268647" duration="1065000" />
+      <workItem from="1547131093062" duration="1023000" />
+      <workItem from="1547151054656" duration="1519000" />
+      <workItem from="1548859220593" duration="599000" />
+      <workItem from="1548898717978" duration="896000" />
+      <workItem from="1548965500303" duration="756000" />
+      <workItem from="1548967329957" duration="1107000" />
+      <workItem from="1549025361875" duration="1392000" />
+      <workItem from="1549031379656" duration="3535000" />
+      <workItem from="1549037172234" duration="202000" />
+      <workItem from="1549037679071" duration="1323000" />
+      <workItem from="1549375484459" duration="601000" />
+      <workItem from="1549473253491" duration="790000" />
+      <workItem from="1549483294619" duration="2361000" />
+      <workItem from="1549489420725" duration="246000" />
+      <workItem from="1549501211930" duration="3600000" />
+      <workItem from="1549542082924" duration="8763000" />
+      <workItem from="1549569872484" duration="2596000" />
+      <workItem from="1549628529956" duration="1514000" />
+      <workItem from="1549646672579" duration="11048000" />
+      <workItem from="1549896864052" duration="111000" />
+      <workItem from="1549897332932" duration="8369000" />
+      <workItem from="1549910758792" duration="2035000" />
+      <workItem from="1549919054766" duration="1415000" />
+      <workItem from="1549932238320" duration="601000" />
+      <workItem from="1549940295703" duration="522000" />
+      <workItem from="1549945662533" duration="1131000" />
+      <workItem from="1549956183046" duration="616000" />
+      <workItem from="1550344489571" duration="359000" />
+      <workItem from="1552676153680" duration="785000" />
+      <workItem from="1552754087580" duration="420000" />
+      <workItem from="1552833280112" duration="817000" />
+      <workItem from="1570561276007" duration="2444000" />
+      <workItem from="1570636456128" duration="3496000" />
+      <workItem from="1570676052532" duration="1542000" />
+      <workItem from="1570723898301" duration="5379000" />
+      <workItem from="1570734711763" duration="184000" />
+      <workItem from="1570735130513" duration="1312000" />
+      <workItem from="1570812637422" duration="2144000" />
+      <workItem from="1570814829608" duration="455000" />
+      <workItem from="1570816200433" duration="3145000" />
+      <workItem from="1575462121959" duration="8830000" />
+      <workItem from="1575471025252" duration="5402000" />
+      <workItem from="1576087223368" duration="8754000" />
+      <workItem from="1578167615073" duration="925000" />
+      <workItem from="1578608240349" duration="2830000" />
+      <workItem from="1578664697999" duration="2251000" />
+      <workItem from="1578669579758" duration="14029000" />
+      <workItem from="1578690444964" duration="530000" />
+      <workItem from="1581894373445" duration="761000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="343" width="570" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576087265918">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state x="585" y="343" width="570" height="397" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1610.1023@70.27.1610.1023" timestamp="1576087265918" />
+    <state width="781" height="326" key="GridCell.Tab.0.bottom" timestamp="1576092428232">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state width="781" height="326" key="GridCell.Tab.0.bottom/70.27.1610.1023@70.27.1610.1023" timestamp="1576092428232" />
+    <state width="781" height="326" key="GridCell.Tab.0.center" timestamp="1576092428231">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state width="781" height="326" key="GridCell.Tab.0.center/70.27.1610.1023@70.27.1610.1023" timestamp="1576092428231" />
+    <state width="781" height="326" key="GridCell.Tab.0.left" timestamp="1576092428231">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state width="781" height="326" key="GridCell.Tab.0.left/70.27.1610.1023@70.27.1610.1023" timestamp="1576092428231" />
+    <state width="781" height="326" key="GridCell.Tab.0.right" timestamp="1576092428232">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state width="781" height="326" key="GridCell.Tab.0.right/70.27.1610.1023@70.27.1610.1023" timestamp="1576092428232" />
+    <state width="781" height="326" key="GridCell.Tab.1.bottom" timestamp="1576092428232">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state width="781" height="326" key="GridCell.Tab.1.bottom/70.27.1610.1023@70.27.1610.1023" timestamp="1576092428232" />
+    <state width="781" height="326" key="GridCell.Tab.1.center" timestamp="1576092428232">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state width="781" height="326" key="GridCell.Tab.1.center/70.27.1610.1023@70.27.1610.1023" timestamp="1576092428232" />
+    <state width="781" height="326" key="GridCell.Tab.1.left" timestamp="1576092428232">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state width="781" height="326" key="GridCell.Tab.1.left/70.27.1610.1023@70.27.1610.1023" timestamp="1576092428232" />
+    <state width="781" height="326" key="GridCell.Tab.1.right" timestamp="1576092428232">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state width="781" height="326" key="GridCell.Tab.1.right/70.27.1610.1023@70.27.1610.1023" timestamp="1576092428232" />
+    <state x="364" y="173" width="1022" height="737" key="SettingsEditor" timestamp="1575473407465">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state x="364" y="173" width="1022" height="737" key="SettingsEditor/70.27.1610.1023@70.27.1610.1023" timestamp="1575473407465" />
+    <state x="538" y="251" width="672" height="678" key="search.everywhere.popup" timestamp="1576090199044">
+      <screen x="70" y="27" width="1610" height="1023" />
+    </state>
+    <state x="538" y="251" width="672" height="678" key="search.everywhere.popup/70.27.1610.1023@70.27.1610.1023" timestamp="1576090199044" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Pesquisa$prova.coverage" NAME="prova Coverage Results" MODIFIED="1576092405347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/projeto" />
+    <SUITE FILE_PATH="coverage/Pesquisa$coisa.coverage" NAME="coisa Coverage Results" MODIFIED="1570735240786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

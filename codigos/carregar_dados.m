@@ -1,0 +1,10 @@
+hinfo = hdf5info(strcat(getenv('HOME'),'/pesquisa/v1/allData.h5'));
+GW150914 = hdf5read(hinfo.GroupHierarchy.Datasets(1));
+GW151012 = hdf5read(hinfo.GroupHierarchy.Datasets(2));
+GW151226 = hdf5read(hinfo.GroupHierarchy.Datasets(3));
+GW170104 = hdf5read(hinfo.GroupHierarchy.Datasets(4));
+GW170608 = hdf5read(hinfo.GroupHierarchy.Datasets(5));
+GW170729 = hdf5read(hinfo.GroupHierarchy.Datasets(6));
+GW170809 = hdf5read(hinfo.GroupHierarchy.Datasets(7));
+GW170814 = hdf5read(hinfo.GroupHierarchy.Datasets(8));
+GW170823 = hdf5read(hinfo.GroupHierarchy.Datasets(9));

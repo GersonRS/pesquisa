@@ -1,0 +1,56 @@
+DOWNLOADER.GA -> Installation
+------------^0o0^------------
+
+0. Download files.
+
+1. Mount ISO:
+
+sudo mount [Downloader.ga]R2018a_glnxa64_dvd1.iso /mnt/cdrom -o loop
+(
+	if not folder 'cdrom' in 'mnt' then need to creat it first:
+		sudo mkdir -p /mnt/cdrom
+)
+
+2. Run installer:
+
+	sudo /mnt/cdrom/install
+
+3. Select Use File Installation Key.
+
+4. Select I have Installation Key for my license and provide:
+
+	09806-07443-53955-64350-21751-41297
+
+To install Matlab Production Server,using this
+	40236-45817-26714-51426-39281
+
+5. Install into folder: /usr/local/MATLAB/R2017b
+
+6. Wait for request of DVD2:
+
+	sudo umount /mnt/cdrom
+	sudo mount [Downloader.ga]R2018a_glnxa64_dvd2.iso /mnt/cdrom/ -o loop
+
+7. Continue with installation and wait for finish.
+
+8. Replace libmwlmgrimpl.so:
+
+	sudo cp -R [Downloader.ga]MATLAB\ R2018a\ Linux64\ Crack/R2018a/bin /usr/local/MATLAB/R2018a/
+
+8. Run MATLAB for the first time:
+
+	sudo /usr/local/MATLAB/R2018a/bin/matlab
+
+9. Select Activate manually without Internet and provide:
+
+	[Downloader.ga]MATLAB R2018a Linux64 Crack/license_standalone.lic
+
+The license will appear in /usr/local/MATLAB/R2017b/licenses.
+
+10. Run activated MATLAB:
+
+	sudo /usr/local/MATLAB/R2018a/bin/matlab
+
+Enjoy MATLAB! Or think about numpy/scipy or Octave :)
+
+The previous guide was tested on Fedora 24 and works well!
